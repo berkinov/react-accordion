@@ -1,6 +1,6 @@
 # react-accordion
 
-![](./idea.png);
+![](./idea.png)
 
 ## npm install
 ## npm start
